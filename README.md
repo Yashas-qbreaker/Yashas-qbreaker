@@ -43,6 +43,17 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashas-qbreaker&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Yashas-qbreaker&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashas-qbreaker&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=tokyonight)
@@ -50,6 +61,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yashas-qbreaker&theme=tokyonight)
 
 
-⭐ Always exploring new technologies and building impactful solutions
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Yashas-qbreaker/Yashas-qbreaker/blob/output/github-contribution-grid-snake.svg)
+
+⭐ Always exploring new technologies and building impactful solutions
