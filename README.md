@@ -53,4 +53,8 @@
 
 ![Snake animation](https://github.com/Yashas-qbreaker/Yashas-qbreaker/blob/output/github-contribution-grid-snake.svg)
 
+## 📈 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-3d-contrib/profile-night-green.svg)
+
 ⭐ Always exploring new technologies and building impactful solutions
